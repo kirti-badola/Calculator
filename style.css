@@ -1,0 +1,44 @@
+body{
+    background-color: #A2C1C2;
+}
+
+body h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 900;
+    color:#2b3034;
+}
+
+#clear{
+	width:138px;
+    cursor: pointer;
+}
+
+.formstyle{
+	width: 150px;
+	height: 420px;
+	margin:auto;
+	border:10px solid #2b3034;
+    padding-left: 15px;
+    background-color: #DFDCCE;
+    box-shadow:  26px 26px 52px #2b3034,
+             -26px -26px 52px #2b3034;
+}
+
+input{
+	width: 40px;
+    height: 40px;
+    border-radius: 20px;
+	background-color: #2b3034;
+    border-color: #2b3034;
+	color:#fff;
+    cursor: pointer;
+}
+
+#ans{
+    width:130px;
+    margin-top: 1rem;
+    text-align: center;
+}
+
